@@ -377,7 +377,7 @@ The second option is retained for compatibility with earlier internal scripts.
 
 If you use this repository, its source code, or the shared datasets in academic work, **please cite the associated study**:
 
-> **Cooperative UAV Localization with Visual Ranging and Residual Learning**
+> **Cooperative UAV Localization via Monocular Visual Ranging and Residual Learning**
 
 A complete BibTeX entry will be added after publication.
 
