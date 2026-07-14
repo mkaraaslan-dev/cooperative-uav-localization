@@ -1,0 +1,10 @@
+{
+  "raw_dataset": "data/raw",
+  "localization_dataset": "data/processed/localization_dataset.npz",
+  "ground_truth_dataset": "data/processed/ground_truth_dataset.npz",
+  "yolov7_repository": "external/YOLOv7_distance",
+  "yolo_weights": "checkpoints/yolov7_distance_best.pt",
+  "experiment_output": "outputs",
+  "observer_uav": "Drone1",
+  "reference_uav": "Drone2"
+}

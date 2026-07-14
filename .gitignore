@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+wandb/
+runs/
+run_data/
+plots/
+checkpoints/
+*.pt
+*.pth
+*.npz
+data/raw/
+data/processed/
+.DS_Store
+Thumbs.db
